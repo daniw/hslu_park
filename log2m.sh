@@ -13,4 +13,5 @@ do
     echo "title('HSLU parking space');" >> matlab/$i.m
     echo "grid on;" >> matlab/$i.m
     echo "grid minor;" >> matlab/$i.m
+    echo "print -dpdf $i" >> matlab/$i.m
 done;

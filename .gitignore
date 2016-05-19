@@ -1,4 +1,5 @@
 *.html
 *.log
 matlab/*.m
+matlab/*.pdf
 *.swp
